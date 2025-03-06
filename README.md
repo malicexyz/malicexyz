@@ -1,3 +1,3 @@
-## Welcome to my GitHub 
+## welcome to my github 
 
-📫 Reach me via notsqdq@proton.me
+📫 reach me via notsqdq@proton.me
