@@ -1,3 +1,3 @@
 ## welcome to my github 
 
-📫 reach me via voidscape@tuta.io
+📫 reach me voidscape@tuta.io
