@@ -1,9 +1,9 @@
 ## welcome to my github 
 
-> network engineer moving into **cybersecurity**.
-> i learn the offensive side to build better **detection** and **hardening**.
+> network engineer moving into cybersecurity.
+> i learn the offensive side to build better detection and hardening.
 
-4 years in systems / network / security administration (banking & multi-site environments), Cisco **CCNA**, currently studying an **Offensive Cybersecurity Master's** @ OTERIA
+4 years in systems / network / security administration (banking & multi-site environments), Cisco CCNA, currently studying an **Offensive Cybersecurity Master's @ OTERIA**
 
 this profile collects my **security labs & projects**.
 
