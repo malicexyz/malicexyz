@@ -12,4 +12,4 @@ this profile collects my **security labs & projects**.
 
 | Project | What it shows | Tech |
 |---|---|---|
-| **[audit-serval-habitat](https://github.com/malicexyz/audit-serval-habitat)** | Full web pentest of a social housing tenant portal (black box then grey box): 22 findings with CVSS v4.0 scoring, CWE mapping and remediation ([report PDF](https://github.com/malicexyz/audit-serval-habitat/blob/main/Rapport_Serval_Habitat_Ilias_public.pdf)) | OWASP Top 10, CVSS v4.0, Nmap, sqlmap |
+| **[web-audit01](https://github.com/malicexyz/web-audit01)** | Full web pentest of a social housing tenant portal (black box then grey box): 22 findings with CVSS v4.0 scoring, CWE mapping and remediation ([report PDF](https://github.com/malicexyz/web-audit01/blob/main/Rapport_Serval_Habitat_Ilias_public.pdf)) | OWASP Top 10, CVSS v4.0, Nmap, sqlmap |
