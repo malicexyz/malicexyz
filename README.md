@@ -12,4 +12,4 @@ this profile collects my **security labs & projects**.
 
 | Project | What it shows | Tech |
 |---|---|---|
-| **[hardening-scripts](https://github.com/malicexyz/WIP)** | Windows / Linux hardening audit (CIS / ANSSI) with a PASS / WARN / FAIL report | PowerShell, Bash |
+| **[audit-serval-habitat](https://github.com/malicexyz/audit-serval-habitat)** | Full web pentest of a social housing tenant portal (black box then grey box): 22 findings with CVSS v4.0 scoring, CWE mapping and remediation ([report PDF](https://github.com/malicexyz/audit-serval-habitat/blob/main/Rapport_Serval_Habitat_Ilias_public.pdf)) | OWASP Top 10, CVSS v4.0, Nmap, sqlmap |
