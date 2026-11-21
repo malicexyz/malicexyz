@@ -3,7 +3,7 @@
 > network engineer moving into cybersecurity.
 > i learn the offensive side to build better detection and hardening.
 
-this profile collects my **security labs & projects**.
+this profile collects my security labs & projects.
 
 ---
 
